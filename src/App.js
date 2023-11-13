@@ -11,6 +11,9 @@ class App extends React.Component {
       user_first_name: "Mike",
       user_last_name: "Doe",
       user_email: "mike.doe@gmail.com",
+      style: {
+        primary_color: "#000",
+      },
     },
   };
 
